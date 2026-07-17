@@ -1,332 +1,226 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:3B82F6,100:06B6D4&text=Jose%20Alexander%20Yepez%20Mejia&fontColor=ffffff&fontSize=45&fontAlignY=40&desc=Junior%20Front-End%20Developer&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,30:1E293B,60:3B82F6,100:06B6D4&text=Jose%20Alexander%20Yepez%20Mejia&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Junior%20Front-End%20Developer%20%7C%20React%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Node.js&descAlignY=58&descSize=18"/>
 
-# 👋 Hi, I'm Jose Alexander
+<br/>
 
-### 💻 Junior Front-End Developer
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Applications;React+%26+TypeScript+Developer;From+IT+Help+Desk+to+Developer;Always+Learning%2C+Always+Growing"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=React+Developer;TypeScript+Enthusiast;Always+Learning;Building+Modern+Web+Applications"/>
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-alexander-yepez-mejia-960b263b2/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/AlexanderYepez-code/AlexanderYepez-code)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.yepezmejia02@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexanderYepez-code)
 
 </div>
 
----
+<br/>
 
-# 🚀 About Me
+## 🧑‍💻 About Me
 
 ```javascript
-const jose = {
-
-    location: "Italy",
-
+const alexander = {
+    location: "🇮🇹 Italy",
     role: "Junior Front-End Developer",
-
-    experience: "3 Years IT Help Desk",
-
-    currentFocus: [
-        "React",
-        "TypeScript",
-        "Node.js",
-        "PHP",
-        "Laravel"
-    ],
-
-    passions: [
-        "Clean Code",
-        "UI/UX",
-        "Problem Solving",
-        "Continuous Learning"
-    ],
-
-    lookingFor: "First Developer Opportunity 🚀"
-
-}
+    background: "3 Years IT Help Desk → Developer",
+    education: "Boolean Careers (2025)",
+    currentFocus: ["React", "TypeScript", "Node.js", "PHP", "Laravel"],
+    passions: ["Clean Code", "UI/UX Design", "Problem Solving"],
+    goal: "Landing my first Developer role 🚀"
+};
 ```
 
----
+> 💡 Former IT Help Desk professional with 3 years of experience, now fully transitioned into web development.
+> Trained at **Boolean Careers** with a specialization in **React**.
 
-# 🌍 Connect with me
+<br/>
 
-<p align="center">
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
-# 💻 Tech Stack
-
-## Front-End
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,bootstrap,tailwind"/>
-
-</p>
-
----
-
-## Back-End
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql"/>
-
-</p>
-
----
-
-## Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma,docker"/>
-
-</p>
-
----
-
-## Currently Learning
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=angular,laravel"/>
-
-</p>
-
----
-
-# 📈 Learning Progress
-
-| Technology | Progress |
-|------------|---------|
-| HTML | ████████████████████ |
-| CSS | ████████████████████ |
-| JavaScript | ██████████████████ |
-| React | █████████████████ |
-| TypeScript | ███████████████ |
-| Node.js | █████████████ |
-| PHP | █████████ |
-| Laravel | ██████ |
-| Angular | █████ |
-
----
-
-# 🚀 Featured Projects
-
-## 🎮 Videogame Comparator
-
-📸 Screenshot
-
-📝 Description
-
-🚀 Live Demo
-
-📂 Repository
-
----
-
-## 🛒 FuelUp Ecommerce
-
-📸 Screenshot
-
-📝 Description
-
-🚀 Live Demo
-
-📂 Repository
-
----
-
-## 🌍 BooRoad
-
-📸 Screenshot
-
-📝 Description
-
-🚀 Live Demo
-
-📂 Repository
-
----
-
-## 📂 Other Projects
-
-- Pokédex
-- Weather App
-- Todo App
-- Calculator
-- Portfolio
-
----
-
-# 📊 GitHub Analytics
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+### Languages & Frameworks
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Tools & Platforms
+
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+
+### 📚 Currently Learning
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
 </div>
 
----
+<br/>
 
-# 🔥 Contribution Streak
+## 🚀 Featured Projects
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<!-- ═══════════════════ PROJECT 1 ═══════════════════ -->
+
+### 🎮 Videogame Comparator
+
+> *Compara videogiochi side-by-side con dati in tempo reale*
+
+<!-- Aggiungi il tuo screenshot qui: -->
+<!-- <img src="URL_SCREENSHOT" width="600" alt="Videogame Comparator Preview"/> -->
+
+[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-3B82F6?style=for-the-badge)](https://link-al-progetto.com)
+[![Source Code](https://img.shields.io/badge/📂_Source_Code-0F172A?style=for-the-badge)](https://github.com/AlexanderYepez-code/videogame-comparator)
+
+`React` `TypeScript` `API Integration` `Responsive Design`
+
+---
+
+<!-- ═══════════════════ PROJECT 2 ═══════════════════ -->
+
+### 🛒 FuelUp Ecommerce
+
+> *E-commerce completo con carrello, filtri e gestione prodotti*
+
+<!-- Aggiungi il tuo screenshot qui: -->
+<!-- <img src="URL_SCREENSHOT" width="600" alt="FuelUp Ecommerce Preview"/> -->
+
+[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-3B82F6?style=for-the-badge)](https://link-al-progetto.com)
+[![Source Code](https://img.shields.io/badge/📂_Source_Code-0F172A?style=for-the-badge)](https://github.com/AlexanderYepez-code/fuelup-ecommerce)
+
+`React` `Node.js` `Express` `MySQL`
+
+---
+
+<!-- ═══════════════════ PROJECT 3 ═══════════════════ -->
+
+### 🌍 BooRoad
+
+> *Piattaforma di viaggio con ricerca e prenotazioni*
+
+<!-- Aggiungi il tuo screenshot qui: -->
+<!-- <img src="URL_SCREENSHOT" width="600" alt="BooRoad Preview"/> -->
+
+[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-3B82F6?style=for-the-badge)](https://link-al-progetto.com)
+[![Source Code](https://img.shields.io/badge/📂_Source_Code-0F172A?style=for-the-badge)](https://github.com/AlexanderYepez-code/booroad)
+
+`React` `API` `CSS` `Responsive`
 
 </div>
 
----
+<br/>
 
-# 📅 Contribution Graph
+<details>
+<summary><b>📂 Other Projects</b></summary>
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🔴 **Pokédex** | Esplora i Pokémon con dati dalla PokéAPI | React, API |
+| 🌤️ **Weather App** | Meteo in tempo reale con geolocalizzazione | JavaScript, API |
+| ✅ **Todo App** | Task manager con CRUD completo | React |
+| 🧮 **Calculator** | Calcolatrice scientifica responsive | JavaScript, CSS |
+| 🌐 **Portfolio** | Sito personale portfolio | HTML, CSS, JS |
 
----
+</details>
 
-# 🏆 GitHub Trophies
+<br/>
+
+## 💼 Career Journey
+
+```
+  2019  ─────  🎓 Diploma Perito Elettronico
+                │
+  2022  ─────  🖥️ IT Help Desk (3 anni di esperienza)
+                │
+  2025  ─────  📖 Boolean Careers — Specializzazione React
+                │
+  2025  ─────  ⚛️ Front-End Developer
+                │
+  NOW   ─────  🚀 In cerca della prima opportunità come Developer
+```
+
+<br/>
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=2&column=4&no-frame=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AlexanderYepez-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9"/>
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderYepez-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=c9d1d9"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=AlexanderYepez-code&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexanderYepez-code&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=F59E0B"/>
 
 </div>
 
----
+<br/>
 
-# 📦 Featured Repositories
-
-<!-- Sostituisci con i tuoi repository -->
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPOSITORY1&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPOSITORY2&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPOSITORY3&theme=tokyonight"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AlexanderYepez-code&theme=algolia&no-frame=true&row=1&column=6&margin-w=15"/>
 
 </div>
 
----
+<br/>
 
-# 💼 Career Journey
+## 🎯 2026 Goals
 
-```text
+- ✅ Completare la specializzazione Front-End
+- 🔥 Padroneggiare PHP e Laravel
+- 🔥 Imparare Angular
+- 🔥 Contribuire a progetti Open Source
+- 🔥 Ottenere il primo ruolo come Developer
 
-2019 ──────────────── Diploma Perito Elettronico
+<br/>
 
-        │
+## ⚡ Fun Facts
 
-2022 ──────────────── IT Help Desk
-
-        │
-
-2025 ──────────────── Boolean Careers
-
-        │
-
-2025 ──────────────── React Developer
-
-        │
-
-NOW ───────────────── Looking for my first Developer job 🚀
+```
+🎮 Gamer          🏋️ Fitness          🎧 Music Lover
+📚 Tech Nerd      ☕ Coffee Addict     🌍 Traveler
 ```
 
----
-
-# 💡 What I Love
-
-💙 React
-
-⚡ JavaScript
-
-🎨 UI Design
-
-🚀 Learning New Technologies
-
-💻 Building Web Applications
-
-🤝 Teamwork
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Become a Front-End Developer
-- 🔥 Improve PHP
-- 🔥 Learn Laravel
-- 🔥 Learn Angular
-- 🔥 Contribute to Open Source
-- 🔥 Build Amazing Projects
-
----
-
-# ☕ Fun Facts
-
-```text
-🎮 Gaming
-
-🏋️ Fitness
-
-🎧 Music
-
-📚 Technology
-
-☕ Coffee
-
-🌍 Travel
-```
-
----
-
-# 🐍 Contribution Snake
-
-> GitHub Action da configurare
-
-```html
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-
-</p>
-```
-
----
-
-# 👀 Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
-
-</p>
+<br/>
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
+<img src="https://komarev.com/ghpvc/?username=AlexanderYepez-code&style=flat-square&color=38BDF8&label=Profile+Views"/>
 
-### If you like my work, leave a ⭐ on my repositories!
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:4F46E5,100:06B6D4"/>
+**⭐ If you like my work, consider leaving a star on my repos!**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F172A,30:1E293B,60:3B82F6,100:06B6D4"/>
 
 </div>
