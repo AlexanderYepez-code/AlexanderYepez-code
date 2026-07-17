@@ -84,11 +84,8 @@ const alexander = {
 
 > *Compara videogiochi side-by-side con dati in tempo reale*
 
-<!-- Aggiungi il tuo screenshot qui: -->
-<!-- <img src="URL_SCREENSHOT" width="600" alt="Videogame Comparator Preview"/> -->
-
-[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-3B82F6?style=for-the-badge)](https://link-al-progetto.com)
-[![Source Code](https://img.shields.io/badge/📂_Source_Code-0F172A?style=for-the-badge)](https://github.com/AlexanderYepez-code/videogame-comparator)
+<!-- Sostituisci il percorso con il tuo screenshot: -->
+<img src="./assets/videogame-comparator.png" width="600" alt="Videogame Comparator Preview"/>
 
 `React` `TypeScript` `API Integration` `Responsive Design`
 
@@ -100,11 +97,8 @@ const alexander = {
 
 > *E-commerce completo con carrello, filtri e gestione prodotti*
 
-<!-- Aggiungi il tuo screenshot qui: -->
-<!-- <img src="URL_SCREENSHOT" width="600" alt="FuelUp Ecommerce Preview"/> -->
-
-[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-3B82F6?style=for-the-badge)](https://link-al-progetto.com)
-[![Source Code](https://img.shields.io/badge/📂_Source_Code-0F172A?style=for-the-badge)](https://github.com/AlexanderYepez-code/fuelup-ecommerce)
+<!-- Sostituisci il percorso con il tuo screenshot: -->
+<img src="./assets/fuelup-ecommerce.png" width="600" alt="FuelUp Ecommerce Preview"/>
 
 `React` `Node.js` `Express` `MySQL`
 
@@ -116,11 +110,8 @@ const alexander = {
 
 > *Piattaforma di viaggio con ricerca e prenotazioni*
 
-<!-- Aggiungi il tuo screenshot qui: -->
-<!-- <img src="URL_SCREENSHOT" width="600" alt="BooRoad Preview"/> -->
-
-[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-3B82F6?style=for-the-badge)](https://link-al-progetto.com)
-[![Source Code](https://img.shields.io/badge/📂_Source_Code-0F172A?style=for-the-badge)](https://github.com/AlexanderYepez-code/booroad)
+<!-- Sostituisci il percorso con il tuo screenshot: -->
+<img src="./assets/booroad.png" width="600" alt="BooRoad Preview"/>
 
 `React` `API` `CSS` `Responsive`
 
