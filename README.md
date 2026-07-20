@@ -211,25 +211,7 @@ const alexander = {
 
 <br/>
 
-## 📊 Statistiche GitHub
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AlexanderYepez-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9"/>
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderYepez-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=c9d1d9"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=AlexanderYepez-code&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexanderYepez-code&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=F59E0B"/>
-
-</div>
-
-<br/>
 
 ## 🎯 Obiettivi 2026
 
