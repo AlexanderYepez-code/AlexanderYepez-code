@@ -84,6 +84,8 @@ const alexander = {
 
 > *Confronta i tuoi videogiochi preferiti side-by-side e salva la tua lista dei preferiti*
 
+👤 **Progetto Individuale**
+
 <img src="./asset/img/Gamevault.png" width="700" alt="GameVault Preview"/>
 
 <br/>
@@ -106,6 +108,8 @@ const alexander = {
 - 📱 Design responsive
 - ⚡ Server Express per la gestione dei dati
 
+[![Repo](https://img.shields.io/badge/🔗_Vedi_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexanderYepez-code/progetto-finale-spec-frontend-front)
+
 <br/>
 
 ---
@@ -115,6 +119,8 @@ const alexander = {
 ### 🛒 FuelUp — E-commerce Fitness
 
 > *E-commerce completo per prodotti fitness con gestione ordini e notifiche email*
+
+👥 **Progetto di Team** — Sviluppato in collaborazione con [@DavidZarfati](https://github.com/DavidZarfati)
 
 <img src="./asset/img/fuelup.png" width="700" alt="FuelUp Ecommerce Preview"/>
 
@@ -140,6 +146,8 @@ const alexander = {
 - 🗄️ Database MySQL per prodotti, utenti e ordini
 - 📱 Interfaccia responsive e moderna
 
+[![Repo](https://img.shields.io/badge/🔗_Vedi_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DavidZarfati/fuel-up-react)
+
 <br/>
 
 ---
@@ -149,6 +157,8 @@ const alexander = {
 ### ✈️ BussiTravel — Gestionale Trasferte
 
 > *Sistema gestionale completo per la gestione delle trasferte aziendali*
+
+👥 **Progetto di Team** — Sviluppato in collaborazione con [@realKevv](https://github.com/realKevv) e il team **404Team**
 
 <img src="./asset/img/BussinessTravel.png" width="700" alt="BussiTravel Preview"/>
 
@@ -174,6 +184,8 @@ const alexander = {
 - 🐳 Containerizzazione con Docker e Docker Compose
 - 🗄️ Database MySQL con relazioni strutturate
 - 🔐 Gestione autenticazione e ruoli
+
+[![Repo](https://img.shields.io/badge/🔗_Vedi_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/realKevv/404Team_ProgettoFinale)
 
 <br/>
 
