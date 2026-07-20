@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,30:1E293B,60:3B82F6,100:06B6D4&text=Jose%20Alexander%20Yepez%20Mejia&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Junior%20Front-End%20Developer%20%7C%20React%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Node.js&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,30:1E293B,60:3B82F6,100:06B6D4&text=Jose%20Alexander%20Yepez%20Mejia&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Sviluppatore%20Front-End%20Junior%20%7C%20React%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Node.js&descAlignY=58&descSize=18"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Applications;React+%26+TypeScript+Developer;From+IT+Help+Desk+to+Developer;Always+Learning%2C+Always+Growing"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Creo+Applicazioni+Web+Moderne;Sviluppatore+React+%26+TypeScript;Da+IT+Help+Desk+a+Developer;Sempre+in+Crescita%2C+Sempre+Curioso"/>
 
 <br/><br/>
 
@@ -17,30 +17,30 @@
 
 <br/>
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Chi Sono
 
 ```javascript
 const alexander = {
-    location: "🇮🇹 Italy",
-    role: "Junior Front-End Developer",
-    background: "3 Years IT Help Desk → Developer",
-    education: "Boolean Careers (2025)",
-    currentFocus: ["React", "TypeScript", "Node.js", "PHP", "Laravel"],
-    passions: ["Clean Code", "UI/UX Design", "Problem Solving"],
-    goal: "Landing my first Developer role 🚀"
+    posizione: "🇮🇹 Italia",
+    ruolo: "Sviluppatore Front-End Junior",
+    background: "3 Anni IT Help Desk → Developer",
+    formazione: "Boolean Careers (2025)",
+    focusAttuale: ["React", "TypeScript", "Node.js", "PHP", "Laravel"],
+    passioni: ["Codice Pulito", "UI/UX Design", "Problem Solving"],
+    obiettivo: "Ottenere il mio primo ruolo da Developer 🚀"
 };
 ```
 
-> 💡 Former IT Help Desk professional with 3 years of experience, now fully transitioned into web development.
-> Trained at **Boolean Careers** with a specialization in **React**.
+> 💡 Ex professionista IT Help Desk con 3 anni di esperienza, ora completamente dedicato allo sviluppo web.
+> Formato presso **Boolean Careers** con specializzazione in **React**.
 
 <br/>
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologie
 
 <div align="center">
 
-### Languages & Frameworks
+### Linguaggi & Framework
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -52,7 +52,7 @@ const alexander = {
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Tools & Platforms
+### Strumenti & Piattaforme
 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
@@ -65,7 +65,7 @@ const alexander = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 
-### 📚 Currently Learning
+### 📚 Sto Imparando
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
@@ -74,68 +74,116 @@ const alexander = {
 
 <br/>
 
-## 🚀 Featured Projects
+## 🚀 Progetti in Evidenza
 
 <div align="center">
 
 <!-- ═══════════════════ PROJECT 1 ═══════════════════ -->
 
-### 🎮 Videogame Comparator
+### 🎮 GameVault — Videogame Comparator
 
-> *Compara videogiochi side-by-side con dati in tempo reale*
+> *Confronta i tuoi videogiochi preferiti side-by-side e salva la tua lista dei preferiti*
 
-<!-- Sostituisci il percorso con il tuo screenshot: -->
-<img src="./assets/videogame-comparator.png" width="600" alt="Videogame Comparator Preview"/>
+<img src="./asset/img/Gamevault.png" width="700" alt="GameVault Preview"/>
 
-`React` `TypeScript` `API Integration` `Responsive Design`
+<br/>
+
+📌 **Descrizione:** Applicazione web che permette di confrontare diversi videogiochi attraverso un **comparatore interattivo**. L'utente può selezionare i giochi, visualizzarne le caratteristiche affiancate e gestire una **lista di preferiti** personale. I dati dei preferiti vengono salvati nel **localStorage** per garantire la persistenza tra le sessioni.
+
+<br/>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![LocalStorage](https://img.shields.io/badge/LocalStorage-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+
+<br/>
+
+**Funzionalità principali:**
+- 🔍 Comparatore side-by-side di videogiochi
+- ⭐ Lista dei preferiti con persistenza via LocalStorage
+- 📱 Design responsive
+- ⚡ Server Express per la gestione dei dati
+
+<br/>
 
 ---
 
 <!-- ═══════════════════ PROJECT 2 ═══════════════════ -->
 
-### 🛒 FuelUp Ecommerce
+### 🛒 FuelUp — E-commerce Fitness
 
-> *E-commerce completo con carrello, filtri e gestione prodotti*
+> *E-commerce completo per prodotti fitness con gestione ordini e notifiche email*
 
-<!-- Sostituisci il percorso con il tuo screenshot: -->
-<img src="./assets/fuelup-ecommerce.png" width="600" alt="FuelUp Ecommerce Preview"/>
+<img src="./asset/img/fuelup.png" width="700" alt="FuelUp Ecommerce Preview"/>
 
-`React` `Node.js` `Express` `MySQL`
+<br/>
+
+📌 **Descrizione:** Piattaforma e-commerce **full-stack** dedicata a prodotti per il fitness e il benessere. L'applicazione offre un'esperienza d'acquisto completa: navigazione prodotti, carrello, filtri avanzati e gestione ordini. Al completamento di un ordine, viene inviata una **notifica via email** di conferma. L'unica funzionalità esclusa è la modalità di pagamento reale, ma tutto il resto del flusso è completamente implementato, incluso il **database MySQL** per la persistenza dei dati.
+
+<br/>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-22B573?style=for-the-badge&logo=minutemailer&logoColor=white)
+
+<br/>
+
+**Funzionalità principali:**
+- 🛍️ Catalogo prodotti con filtri e ricerca
+- 🛒 Carrello interattivo con gestione quantità
+- 📧 Notifica email alla conferma dell'ordine
+- 🗄️ Database MySQL per prodotti, utenti e ordini
+- 📱 Interfaccia responsive e moderna
+
+<br/>
 
 ---
 
 <!-- ═══════════════════ PROJECT 3 ═══════════════════ -->
 
-### 🌍 BooRoad
+### ✈️ BussiTravel — Gestionale Trasferte
 
-> *Piattaforma di viaggio con ricerca e prenotazioni*
+> *Sistema gestionale completo per la gestione delle trasferte aziendali*
 
-<!-- Sostituisci il percorso con il tuo screenshot: -->
-<img src="./assets/booroad.png" width="600" alt="BooRoad Preview"/>
+<img src="./asset/img/BussinessTravel.png" width="700" alt="BussiTravel Preview"/>
 
-`React` `API` `CSS` `Responsive`
+<br/>
+
+📌 **Descrizione:** Applicazione web gestionale progettata per organizzare e monitorare le **trasferte aziendali**. Il sistema permette di creare, modificare e gestire trasferte, assegnare dipendenti, tracciare gli stati e gestire la documentazione associata. Un progetto full-stack completo con architettura moderna e containerizzazione Docker.
+
+<br/>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+<br/>
+
+**Funzionalità principali:**
+- 📋 CRUD completo per le trasferte
+- 👥 Gestione dipendenti e assegnazioni
+- 📊 Dashboard con panoramica trasferte
+- 🐳 Containerizzazione con Docker e Docker Compose
+- 🗄️ Database MySQL con relazioni strutturate
+- 🔐 Gestione autenticazione e ruoli
+
+<br/>
 
 </div>
 
 <br/>
 
-<details>
-<summary><b>📂 Other Projects</b></summary>
 <br/>
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🔴 **Pokédex** | Esplora i Pokémon con dati dalla PokéAPI | React, API |
-| 🌤️ **Weather App** | Meteo in tempo reale con geolocalizzazione | JavaScript, API |
-| ✅ **Todo App** | Task manager con CRUD completo | React |
-| 🧮 **Calculator** | Calcolatrice scientifica responsive | JavaScript, CSS |
-| 🌐 **Portfolio** | Sito personale portfolio | HTML, CSS, JS |
-
-</details>
-
-<br/>
-
-## 💼 Career Journey
+## 💼 Percorso Professionale
 
 ```
   2019  ─────  🎓 Diploma Perito Elettronico
@@ -151,7 +199,7 @@ const alexander = {
 
 <br/>
 
-## 📊 GitHub Analytics
+## 📊 Statistiche GitHub
 
 <div align="center">
 
@@ -171,17 +219,7 @@ const alexander = {
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AlexanderYepez-code&theme=algolia&no-frame=true&row=1&column=6&margin-w=15"/>
-
-</div>
-
-<br/>
-
-## 🎯 2026 Goals
+## 🎯 Obiettivi 2026
 
 - ✅ Completare la specializzazione Front-End
 - 🔥 Padroneggiare PHP e Laravel
@@ -191,11 +229,11 @@ const alexander = {
 
 <br/>
 
-## ⚡ Fun Facts
+## ⚡ Curiosità su di Me
 
 ```
-🎮 Gamer          🏋️ Fitness          🎧 Music Lover
-📚 Tech Nerd      ☕ Coffee Addict     🌍 Traveler
+🎮 Videogiocatore  🏋️ Fitness          🎧 Amante della Musica
+📚 Appassionato Tech  ☕ Dipendente dal Caffè  🌍 Viaggiatore
 ```
 
 <br/>
@@ -208,7 +246,7 @@ const alexander = {
 
 <br/><br/>
 
-**⭐ If you like my work, consider leaving a star on my repos!**
+**⭐ Se ti piace il mio lavoro, lascia una stella ai miei repository!**
 
 <br/>
 
